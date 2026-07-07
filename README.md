@@ -1,0 +1,2 @@
+# Autonomous-Kinematics-Simulator-Navigation-Controller-A-Digital-Twin-for-Non-Holonomic-Vehicles
+This 2D digital twin simulates non-holonomic differential drive kinematics for robust control validation. It integrates  EMA filters for sensor noise, and a PID controller with derivative-chatter mitigation. The project bridges theoretical control  with real-world constraints for reliable robotics development.
